@@ -1,0 +1,39 @@
+.titlereference {
+  border-top: 3px solid var(--red);
+}
+.actualReferences {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15vh;
+}
+
+.accordionref {
+  margin-left: 10vw;
+  width: 50%
+}
+
+.actualReference{
+  margin-right: 5vh;
+}
+
+.description {
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+
+.imagebutton {
+  display: flex;
+  justify-content: center;
+}
+.updatedelete {
+  width: auto ;
+  float: right;
+  float: bottom;
+} 
+.imagereference img {
+  margin-top: 5vh;
+  padding-bottom: 5vh;
+  width: 30vw;
+  height: auto;
+
+}

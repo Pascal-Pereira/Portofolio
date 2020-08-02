@@ -1,0 +1,20 @@
+.admin {
+  display:  flex;
+}
+
+.uploadphoto {
+  margin-top: 5vh;
+  margin-left: 2vw;
+}
+.infosbio {
+  margin-top: 5vh;
+}
+.jobtilte {
+  margin-bottom: 2vh;
+}
+
+.titleinfos {
+  padding-top: 5vh;
+margin-bottom: 5vh;
+border-top: 2px solid var(--red)
+}

@@ -1,0 +1,21 @@
+.refandskills {
+  display: block;
+  width: 100%;
+}
+
+.skills {
+  display: flex;
+
+  justify-content: center;
+
+}
+
+  
+.skill img {
+  width: 50%;
+  height: 50%;
+  /* height: auto; */
+  margin : 20px 20px;
+  border: 1px solid blue
+}
+

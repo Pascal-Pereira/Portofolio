@@ -1,0 +1,17 @@
+.home {
+  margin-top: 20vh;
+
+}
+
+.détail2 {
+  display: flex;
+  float: top;
+  position: relative;
+  margin-top: -200px;
+
+}
+
+h2 {
+  color: var(--red);
+}
+

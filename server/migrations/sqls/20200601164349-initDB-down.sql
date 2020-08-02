@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS `projet`;
+DROP TABLE IF EXISTS `skill`;
+DROP TABLE IF EXISTS `project_skill`;

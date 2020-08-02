@@ -1,0 +1,7 @@
+.header {
+  background-color: var(--grey);
+  color: white;
+  height:10%;
+  position : absolute;
+  width:100%;
+}

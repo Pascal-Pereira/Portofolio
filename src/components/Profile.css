@@ -1,0 +1,13 @@
+.glm {
+  margin-top: 5vh;
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+  color: var(--red);
+}
+
+.glm a{
+
+  text-decoration: none;
+  color: var(--red);
+}
